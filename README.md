@@ -1,5 +1,6 @@
 # Project: Practice - Swag Labs
-It is a project to practice automation testing using an e-commerce web site: https://www.saucedemo.com/
+It is a project to practice automation testing using the following web site: https://www.saucedemo.com/
+
 
 ---
 
@@ -10,13 +11,15 @@ It is a project to practice automation testing using an e-commerce web site: htt
 3. Open a IDE (eg: Visual Studio Code) and open the folder cloned.
 4. Create an env file (more information below).
 
+
 ---
 
 ## The env file
 It is a text file that contains personal information. It contains the following fields:
-BASE_URL=
-USER_USERNAME=
-USER_PASSWORD=
+BASE_URL=  
+USER_USERNAME=   
+USER_PASSWORD=  
+
 
 --
 
@@ -24,16 +27,19 @@ USER_PASSWORD=
 - Run all tests (headless): 
 - Run test opening a browser: 
 - Run a specific test: 
-- Run tests based on a tag: 
+- Run tests based on a tag:  
+
 
 --
 
 ## Linting
 TBD
 
+
 ---
 
 ## Other considerations
 - Never work directly on main. Use branches to add work instead.
+
 
 --
