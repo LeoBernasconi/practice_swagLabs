@@ -15,13 +15,13 @@ It is a project to practice automation testing using the following web site: htt
 ---
 
 ## The env file
-It is a text file that contains personal information. It contains the following fields:
+It is a text file that contains personal information. It contains the following fields:  
 BASE_URL=  
 USER_USERNAME=   
 USER_PASSWORD=  
 
 
---
+---
 
 ## Running Tests
 - Run all tests (headless): 
@@ -30,7 +30,7 @@ USER_PASSWORD=
 - Run tests based on a tag:  
 
 
---
+---
 
 ## Linting
 TBD
@@ -42,4 +42,4 @@ TBD
 - Never work directly on main. Use branches to add work instead.
 
 
---
+---
